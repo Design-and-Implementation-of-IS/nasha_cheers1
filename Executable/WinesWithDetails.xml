@@ -1,0 +1,75 @@
+<Data>
+<Wines>
+<Wine>
+<Name>Chateau Margaux</Name>
+<Description>Elegant and complex Bordeaux wine.</Description>
+<PricePerBottle>450.00</PricePerBottle>
+<SweetnessLevel>Dry</SweetnessLevel>
+<ProductImage>chateau_margaux.jpg</ProductImage>
+<ManufacturerID>1</ManufacturerID>
+<ProductionYear>2015</ProductionYear>
+<TypeName>Red</TypeName>
+<CatalogNumber>001</CatalogNumber>
+</Wine>
+<Wine>
+<Name>Sassicaia</Name>
+<Description>Renowned Tuscan red wine with a bold flavor.</Description>
+<PricePerBottle>300.00</PricePerBottle>
+<SweetnessLevel>Dry</SweetnessLevel>
+<ProductImage>sassicaia.jpg</ProductImage>
+<ManufacturerID>2</ManufacturerID>
+<ProductionYear>2018</ProductionYear>
+<TypeName>Red</TypeName>
+<CatalogNumber>002</CatalogNumber>
+</Wine>
+<Wine>
+<Name>Cloudy Bay Sauvignon Blanc</Name>
+<Description>Fresh and vibrant New Zealand white wine.</Description>
+<PricePerBottle>35.00</PricePerBottle>
+<SweetnessLevel>Off-Dry</SweetnessLevel>
+<ProductImage>cloudy_bay.jpg</ProductImage>
+<ManufacturerID>3</ManufacturerID>
+<ProductionYear>2021</ProductionYear>
+<TypeName>White</TypeName>
+<CatalogNumber>003</CatalogNumber>
+</Wine>
+<Wine>
+<Name>Dom Pérignon</Name>
+<Description>Luxurious vintage champagne with a fine mousse.</Description>
+<PricePerBottle>200.00</PricePerBottle>
+<SweetnessLevel>Brut</SweetnessLevel>
+<ProductImage>dom_perignon.jpg</ProductImage>
+<ManufacturerID>4</ManufacturerID>
+<ProductionYear>2012</ProductionYear>
+<TypeName>Sparkling</TypeName>
+<CatalogNumber>004</CatalogNumber>
+</Wine>
+<Wine>
+<Name>Penfolds Grange</Name>
+<Description>Iconic Australian red wine with robust flavor.</Description>
+<PricePerBottle>850.00</PricePerBottle>
+<SweetnessLevel>Dry</SweetnessLevel>
+<ProductImage>penfolds_grange.jpg</ProductImage>
+<ManufacturerID>5</ManufacturerID>
+<ProductionYear>2016</ProductionYear>
+<TypeName>Red</TypeName>
+<CatalogNumber>005</CatalogNumber>
+</Wine>
+</Wines>
+<Manufacturers>
+<Manufacturer>
+<ManufacturerID>102</ManufacturerID>
+<Name>ABC Manufacturing</Name>
+<PhoneNumber>123-456-7890</PhoneNumber>
+<Address>123 Main Street, Cityville</Address>
+<Email>contact@abcmanufacturing.com</Email>
+</Manufacturer>
+<Manufacturer>
+<ManufacturerID>202</ManufacturerID>
+<Name>XYZ Industries</Name>
+<PhoneNumber>987-654-3210</PhoneNumber>
+<Address>456 Elm Street, Townsville</Address>
+<Email>info@xyzindustries.com</Email>
+</Manufacturer>
+</Manufacturers>
+</Data>
