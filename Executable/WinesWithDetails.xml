@@ -1,75 +1,96 @@
 <Data>
 <Wines>
 <Wine>
-<Name>Chateau Margaux</Name>
-<Description>Elegant and complex Bordeaux wine.</Description>
-<PricePerBottle>450.00</PricePerBottle>
+<Name>Opus One</Name>
+<Description>Rich and bold Napa Valley red wine.</Description>
+<PricePerBottle>350.00</PricePerBottle>
 <SweetnessLevel>Dry</SweetnessLevel>
-<ProductImage>chateau_margaux.jpg</ProductImage>
-<ManufacturerID>1</ManufacturerID>
-<ProductionYear>2015</ProductionYear>
+<ProductImage>opus_one.jpg</ProductImage>
+<ManufacturerID>201</ManufacturerID>
+<ProductionYear>2019</ProductionYear>
 <TypeName>Red</TypeName>
-<CatalogNumber>001</CatalogNumber>
+<CatalogNumber>101</CatalogNumber>
 </Wine>
 <Wine>
-<Name>Sassicaia</Name>
-<Description>Renowned Tuscan red wine with a bold flavor.</Description>
-<PricePerBottle>300.00</PricePerBottle>
-<SweetnessLevel>Dry</SweetnessLevel>
-<ProductImage>sassicaia.jpg</ProductImage>
-<ManufacturerID>2</ManufacturerID>
-<ProductionYear>2018</ProductionYear>
-<TypeName>Red</TypeName>
-<CatalogNumber>002</CatalogNumber>
-</Wine>
-<Wine>
-<Name>Cloudy Bay Sauvignon Blanc</Name>
-<Description>Fresh and vibrant New Zealand white wine.</Description>
-<PricePerBottle>35.00</PricePerBottle>
-<SweetnessLevel>Off-Dry</SweetnessLevel>
-<ProductImage>cloudy_bay.jpg</ProductImage>
-<ManufacturerID>3</ManufacturerID>
-<ProductionYear>2021</ProductionYear>
-<TypeName>White</TypeName>
-<CatalogNumber>003</CatalogNumber>
-</Wine>
-<Wine>
-<Name>Dom Pérignon</Name>
-<Description>Luxurious vintage champagne with a fine mousse.</Description>
-<PricePerBottle>200.00</PricePerBottle>
+<Name>Louis Roederer Cristal</Name>
+<Description>Exceptional French sparkling wine, known for its elegance.</Description>
+<PricePerBottle>600.00</PricePerBottle>
 <SweetnessLevel>Brut</SweetnessLevel>
-<ProductImage>dom_perignon.jpg</ProductImage>
-<ManufacturerID>4</ManufacturerID>
-<ProductionYear>2012</ProductionYear>
+<ProductImage>cristal.jpg</ProductImage>
+<ManufacturerID>202</ManufacturerID>
+<ProductionYear>2013</ProductionYear>
 <TypeName>Sparkling</TypeName>
-<CatalogNumber>004</CatalogNumber>
+<CatalogNumber>102</CatalogNumber>
 </Wine>
 <Wine>
-<Name>Penfolds Grange</Name>
-<Description>Iconic Australian red wine with robust flavor.</Description>
-<PricePerBottle>850.00</PricePerBottle>
+<Name>Villa Maria Sauvignon Blanc</Name>
+<Description>Crisp and refreshing white wine from New Zealand.</Description>
+<PricePerBottle>25.00</PricePerBottle>
 <SweetnessLevel>Dry</SweetnessLevel>
-<ProductImage>penfolds_grange.jpg</ProductImage>
-<ManufacturerID>5</ManufacturerID>
-<ProductionYear>2016</ProductionYear>
-<TypeName>Red</TypeName>
-<CatalogNumber>005</CatalogNumber>
+<ProductImage>villa_maria.jpg</ProductImage>
+<ManufacturerID>203</ManufacturerID>
+<ProductionYear>2022</ProductionYear>
+<TypeName>White</TypeName>
+<CatalogNumber>103</CatalogNumber>
+</Wine>
+<Wine>
+<Name>MoetChandon Rose</Name>
+<Description>Luxurious pink sparkling wine with notes of berries.</Description>
+<PricePerBottle>75.00</PricePerBottle>
+<SweetnessLevel>Brut</SweetnessLevel>
+<ProductImage>moet_rose.jpg</ProductImage>
+<ManufacturerID>204</ManufacturerID>
+<ProductionYear>2020</ProductionYear>
+<TypeName>Rosé</TypeName>
+<CatalogNumber>104</CatalogNumber>
+</Wine>
+<Wine>
+<Name>Château d'Yquem</Name>
+<Description>Legendary sweet wine from Bordeaux, rich and complex.</Description>
+<PricePerBottle>500.00</PricePerBottle>
+<SweetnessLevel>Sweet</SweetnessLevel>
+<ProductImage>yquem.jpg</ProductImage>
+<ManufacturerID>205</ManufacturerID>
+<ProductionYear>2015</ProductionYear>
+<TypeName>Dessert</TypeName>
+<CatalogNumber>105</CatalogNumber>
 </Wine>
 </Wines>
 <Manufacturers>
 <Manufacturer>
-<ManufacturerID>102</ManufacturerID>
-<Name>ABC Manufacturing</Name>
-<PhoneNumber>123-456-7890</PhoneNumber>
-<Address>123 Main Street, Cityville</Address>
-<Email>contact@abcmanufacturing.com</Email>
+<ManufacturerID>201</ManufacturerID>
+<Name>Napa Valley Wineries</Name>
+<PhoneNumber>555-123-4567</PhoneNumber>
+<Address>1 Wine Road, Napa Valley</Address>
+<Email>info@napawines.com</Email>
 </Manufacturer>
 <Manufacturer>
 <ManufacturerID>202</ManufacturerID>
-<Name>XYZ Industries</Name>
-<PhoneNumber>987-654-3210</PhoneNumber>
-<Address>456 Elm Street, Townsville</Address>
-<Email>info@xyzindustries.com</Email>
+<Name>French Sparkling Co.</Name>
+<PhoneNumber>555-987-6543</PhoneNumber>
+<Address>Champagne Avenue, Reims</Address>
+<Email>contact@frenchsparkling.com</Email>
+</Manufacturer>
+<Manufacturer>
+<ManufacturerID>203</ManufacturerID>
+<Name>NZ Winemakers</Name>
+<PhoneNumber>555-345-6789</PhoneNumber>
+<Address>3 Kiwi Lane, Auckland</Address>
+<Email>sales@nzwinemakers.com</Email>
+</Manufacturer>
+<Manufacturer>
+<ManufacturerID>204</ManufacturerID>
+<Name>Luxury Bubbles Ltd.</Name>
+<PhoneNumber>555-567-8901</PhoneNumber>
+<Address>5 Royal Street, Paris</Address>
+<Email>support@luxurybubbles.com</Email>
+</Manufacturer>
+<Manufacturer>
+<ManufacturerID>205</ManufacturerID>
+<Name>Bordeaux Legends</Name>
+<PhoneNumber>555-890-1234</PhoneNumber>
+<Address>7 Château Way, Bordeaux</Address>
+<Email>info@bordeauxlegends.com</Email>
 </Manufacturer>
 </Manufacturers>
 </Data>
